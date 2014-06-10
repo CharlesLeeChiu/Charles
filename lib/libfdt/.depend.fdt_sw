@@ -1,0 +1,19 @@
+fdt_sw.o: fdt_sw.c \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/libfdt_env.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/compiler.h \
+ /home/rlc/buildroot/output/host/usr/lib/gcc/powerpc-buildroot-linux-uclibc/4.7.3/include/stddef.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/linux/string.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/linux/types.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/linux/config.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/linux/posix_types.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/linux/stddef.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/asm/posix_types.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/asm/types.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/asm/string.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/asm/byteorder.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/linux/byteorder/big_endian.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/linux/byteorder/swab.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/linux/byteorder/generic.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/fdt.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/libfdt.h \
+ libfdt_internal.h

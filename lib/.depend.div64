@@ -1,0 +1,7 @@
+div64.o: div64.c \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/linux/types.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/linux/config.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/linux/posix_types.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/linux/stddef.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/asm/posix_types.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/asm/types.h

@@ -1,0 +1,4 @@
+ppcstring.o: ppcstring.S \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/ppc_asm.tmpl \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/asm/errno.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/asm-generic/errno.h

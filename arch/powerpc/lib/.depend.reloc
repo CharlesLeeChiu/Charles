@@ -1,0 +1,2 @@
+reloc.o: reloc.S \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/ppc_asm.tmpl

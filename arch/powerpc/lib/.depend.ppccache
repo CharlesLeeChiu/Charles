@@ -1,0 +1,11 @@
+ppccache.o: ppccache.S \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/config.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/config_cmd_defaults.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/config_defaults.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/configs/MPC8315ERDB.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/config_cmd_default.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/asm/config.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/config_phylib_all_drivers.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/config_fallbacks.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/config_uncmd_spl.h \
+ /home/rlc/u-boot/uboot_for_mpc8315_2012.10/include/ppc_asm.tmpl

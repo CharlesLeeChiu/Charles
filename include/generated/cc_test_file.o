@@ -1,0 +1,9 @@
+	.file	"null"
+	.section	".text"
+.Ltext0:
+	.cfi_sections	.debug_frame
+.Letext0:
+	.section	.debug_line,"",@progbits
+.Ldebug_line0:
+	.ident	"GCC: (Buildroot 2014.05-git-00995-g8b091e1) 4.7.3"
+	.section	.note.GNU-stack,"",@progbits
